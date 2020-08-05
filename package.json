@@ -13,7 +13,7 @@
     "build:server": "cross-env WEBPACK_TARGET=node vue-cli-service build"
   },
   "dependencies": {
-    "fastify": "^1.14.1",
+    "fastify": "^2.15.1",
     "fastify-static": "^1.1.0",
     "vue": "^2.6.6",
     "vue-server-renderer": "^2.6.7",
