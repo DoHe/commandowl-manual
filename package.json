@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "fastify": "^1.14.1",
-    "fastify-static": "^1.1.0",
+    "fastify-static": "^4.2.4",
     "vue": "^2.6.6",
     "vue-server-renderer": "^2.6.7",
     "vuex": "^3.0.1"
